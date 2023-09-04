@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Visual Studio 2022\Zeller_algorithms_formula\Zeller_algorithms_formula\main.cpp(57,9): warning C4552: '<=': result of expression not used
+D:\Visual Studio 2022\Zeller_algorithms_formula\Zeller_algorithms_formula\main.cpp(66,9): warning C4552: '<=': result of expression not used
+D:\Visual Studio 2022\Zeller_algorithms_formula\Zeller_algorithms_formula\main.cpp(77,8): warning C4552: '<=': result of expression not used
+D:\Visual Studio 2022\Zeller_algorithms_formula\Zeller_algorithms_formula\main.cpp(87,8): warning C4552: '<=': result of expression not used
+D:\Visual Studio 2022\Zeller_algorithms_formula\Zeller_algorithms_formula\main.cpp(159,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Zeller_algorithms_formula.vcxproj -> D:\Visual Studio 2022\Zeller_algorithms_formula\x64\Debug\Zeller_algorithms_formula.exe
