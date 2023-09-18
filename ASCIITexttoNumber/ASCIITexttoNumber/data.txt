@@ -1,0 +1,64 @@
+
+		Descriptive Statistics: 
+
+		Data set with 3 data: 
+		45 48 98 
+
+		Minimum                                       = 45
+
+		Maximum                                       = 98
+
+		Range                                         = 53
+
+		Size                                          = 3
+
+		Sum                                           = 191
+
+		Mean                                          = 63.6667
+
+		Median                                        = 48
+
+		Standard Deviation                            = 29.7714
+
+		Variance                                      = 886.333
+
+		Mid Range                                     = 71
+
+		Quartiles: 
+
+			Q1                                    = 45
+
+			Q2                                    = 48
+
+			Q3                                    = 98
+
+		Interquartile Range                           = 53
+
+		Outliers                                      = 
+
+		Sum of Squares                                = 1772.666667
+
+		Mean Absolute Deviation                       = 22.888889
+
+		Root Mean Square                              = 68.149346
+
+		Standard Error of the Mean                    = 17.188497
+
+		Sknewness                                     = 1.712286
+
+		Kurtosis                                      = inf
+
+		Kurtosis Excess                               = -nan(ind)
+
+		Coefficient of Variation                      = 0.467613
+
+		Relative Standard Deviation                   = 46.761284 % 
+
+		Frequency Table: 
+
+			Value          Frequency         Frequency %
+
+			
+			45             1                  33.333333
+			48             1                  33.333333
+			98             1                  33.333333
